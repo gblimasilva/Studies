@@ -1,0 +1,7 @@
+C:\Users\LimaSilva\source\repos\testaPontoFlutuante\bin\Debug\testaPontoFlutuante.exe.config
+C:\Users\LimaSilva\source\repos\testaPontoFlutuante\bin\Debug\testaPontoFlutuante.exe
+C:\Users\LimaSilva\source\repos\testaPontoFlutuante\bin\Debug\testaPontoFlutuante.pdb
+C:\Users\LimaSilva\source\repos\testaPontoFlutuante\obj\Debug\testaPontoFlutuante.csprojAssemblyReference.cache
+C:\Users\LimaSilva\source\repos\testaPontoFlutuante\obj\Debug\testaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\LimaSilva\source\repos\testaPontoFlutuante\obj\Debug\testaPontoFlutuante.exe
+C:\Users\LimaSilva\source\repos\testaPontoFlutuante\obj\Debug\testaPontoFlutuante.pdb

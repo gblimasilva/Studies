@@ -1,0 +1,7 @@
+C:\Users\LimaSilva\source\repos\2-CriandoPontosFlutuantes\obj\Debug\2-CriandoPontosFlutuantes.csprojAssemblyReference.cache
+C:\Users\LimaSilva\source\repos\2-CriandoPontosFlutuantes\obj\Debug\2-CriandoPontosFlutuantes.csproj.CoreCompileInputs.cache
+C:\Users\LimaSilva\source\repos\2-CriandoPontosFlutuantes\bin\Debug\2-CriandoPontosFlutuantes.exe.config
+C:\Users\LimaSilva\source\repos\2-CriandoPontosFlutuantes\bin\Debug\2-CriandoPontosFlutuantes.exe
+C:\Users\LimaSilva\source\repos\2-CriandoPontosFlutuantes\bin\Debug\2-CriandoPontosFlutuantes.pdb
+C:\Users\LimaSilva\source\repos\2-CriandoPontosFlutuantes\obj\Debug\2-CriandoPontosFlutuantes.exe
+C:\Users\LimaSilva\source\repos\2-CriandoPontosFlutuantes\obj\Debug\2-CriandoPontosFlutuantes.pdb

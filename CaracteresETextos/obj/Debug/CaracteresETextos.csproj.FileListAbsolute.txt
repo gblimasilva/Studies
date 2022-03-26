@@ -1,0 +1,7 @@
+C:\Users\LimaSilva\source\repos\CaracteresETextos\bin\Debug\CaracteresETextos.exe.config
+C:\Users\LimaSilva\source\repos\CaracteresETextos\bin\Debug\CaracteresETextos.exe
+C:\Users\LimaSilva\source\repos\CaracteresETextos\bin\Debug\CaracteresETextos.pdb
+C:\Users\LimaSilva\source\repos\CaracteresETextos\obj\Debug\CaracteresETextos.csprojAssemblyReference.cache
+C:\Users\LimaSilva\source\repos\CaracteresETextos\obj\Debug\CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\LimaSilva\source\repos\CaracteresETextos\obj\Debug\CaracteresETextos.exe
+C:\Users\LimaSilva\source\repos\CaracteresETextos\obj\Debug\CaracteresETextos.pdb

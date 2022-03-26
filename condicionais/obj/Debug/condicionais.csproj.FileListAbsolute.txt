@@ -1,0 +1,7 @@
+C:\Users\LimaSilva\source\repos\condicionais\obj\Debug\condicionais.csprojAssemblyReference.cache
+C:\Users\LimaSilva\source\repos\condicionais\obj\Debug\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\LimaSilva\source\repos\condicionais\bin\Debug\condicionais.exe.config
+C:\Users\LimaSilva\source\repos\condicionais\bin\Debug\condicionais.exe
+C:\Users\LimaSilva\source\repos\condicionais\bin\Debug\condicionais.pdb
+C:\Users\LimaSilva\source\repos\condicionais\obj\Debug\condicionais.exe
+C:\Users\LimaSilva\source\repos\condicionais\obj\Debug\condicionais.pdb
